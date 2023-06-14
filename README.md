@@ -24,7 +24,7 @@
     </a>
 </p>
 
-### Lenguajes
+### 📋 Lenguajes
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AngelIsaiSzr)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/AngelIsaiSzr)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AngelIsaiSzr)
@@ -33,7 +33,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
 
-### Proyectos
+### 📂 Proyectos
 [![Pagina Web Mates](https://img.shields.io/badge/Mates-black?style=for-the-badge&logo=oneplus)](https://github.com/AngelIsaiSzr)
 
 ### 💻 IDEs/Editors
@@ -42,7 +42,7 @@
 [![NetBeans](https://img.shields.io/badge/NetBeansIDE-black?style=for-the-badge&logo=apache-netbeans-ide)](https://github.com/AngelIsaiSzr)
 [![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)](https://github.com/AngelIsaiSzr)
 
-### Tecnologías & Frameworks
+### 📚 Tecnologías & Frameworks
 [![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AngelIsaiSzr)
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AngelIsaiSzr)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/AngelIsaiSzr)
@@ -52,7 +52,7 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/AngelIsaiSzr)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/AngelIsaiSzr)
 
-### OS
+### 🎛️ OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AngelIsaiSzr)
 [![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android)](https://github.com/AngelIsaiSzr)
 
