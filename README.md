@@ -30,7 +30,7 @@
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AngelIsaiSzr)
-[![Android](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/AngelIsaiSzr)
+[![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android)](https://github.com/AngelIsaiSzr)
 
 <details>
 <p align="center">
