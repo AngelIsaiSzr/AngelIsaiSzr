@@ -34,7 +34,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
 
 ### Proyectos
-[![Pagina Web Mates](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)](https://github.com/AngelIsaiSzr)
+[![Pagina Web Mates](https://img.shields.io/badge/Mates-black?style=for-the-badge&logo=oneplus)](https://github.com/AngelIsaiSzr)
 
 ### 💻 IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
