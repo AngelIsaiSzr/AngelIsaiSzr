@@ -8,7 +8,19 @@
         🔭 Abierto a colaborar en proyectos interesantes e innovadores en el campo del desarrolo web y movil. Mis áreas de experiencia incluyen el desarrollo de aplicaciones móviles para Android, así como el desarrollo de aplicaciones web front-end y back-end utilizando tecnologías como React, Angular, Node.js y Django, ademas de estar aprendiendo sobre robótica y la automatización de procesos. Si tienes una idea o un proyecto en mente, no dudes en contactarme. Estoy dispuesto a trabajar en equipo y contribuir con mis habilidades y conocimientos para llevar el proyecto al siguiente nivel!<br>
     </i><br>
     <a href="https://github.com/AngelIsaiSzr">
-        <img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=github" alt="GitHub">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
     </a>
 </p>
 
@@ -22,9 +34,9 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
 
 ### Proyectos
-[![Pagina Web Mates](https://img.shields.io/badge/mates-black?style=for-the-badge&logo=mates)](https://github.com/AngelIsaiSzr)
+[![Pagina Web Mates](https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)](https://github.com/AngelIsaiSzr)
 
-###💻 IDEs/Editors
+### 💻 IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
