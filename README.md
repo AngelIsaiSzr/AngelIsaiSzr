@@ -11,16 +11,16 @@
         <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram" alt="Instagram">
     </a>
     <a href="https://github.com/AngelIsaiSzr">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+        <img src="https://img.shields.io/badge/Facebook-black?style=flat-square&logo=Facebook" alt="Facebook">
     </a>
     <a href="https://github.com/AngelIsaiSzr">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github" alt="GitHub">
     </a>
     <a href="https://github.com/AngelIsaiSzr">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail" alt="Gmail">
     </a>
     <a href="https://github.com/AngelIsaiSzr">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter" alt="Twitter">
     </a>
 </p>
 
@@ -87,4 +87,21 @@
 - 📫 Cómo contactarme: ...
 - 😄 Pronombres: ...
 - ⚡ Dato curioso: ...
+
+
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/AngelIsaiSzr">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    </a>
 -->
