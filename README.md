@@ -41,6 +41,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/AngelIsaiSzr)
 [![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)](https://github.com/AngelIsaiSzr)
 [![NetBeans](https://img.shields.io/badge/NetBeans-black?style=for-the-badge&logo=apache-netbeans-ide)](https://github.com/AngelIsaiSzr)
+[![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse)](https://github.com/AngelIsaiSzr)
 [![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)](https://github.com/AngelIsaiSzr)
 
 ### 📚 Tecnologías & Frameworks
