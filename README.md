@@ -37,14 +37,14 @@
 [![Pagina Web Mates](https://img.shields.io/badge/Mates-black?style=for-the-badge&logo=oneplus)](https://github.com/AngelIsaiSzr)
 
 ### 💻 IDEs/Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/AngelIsaiSzr)
+[![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)](https://github.com/AngelIsaiSzr)
+[![NetBeans](https://img.shields.io/badge/NetBeansIDE-black?style=for-the-badge&logo=apache-netbeans-ide)](https://github.com/AngelIsaiSzr)
+[![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)](https://github.com/AngelIsaiSzr)
 
 ### Tecnologías & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AngelIsaiSzr)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AngelIsaiSzr)
+[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AngelIsaiSzr)
+[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AngelIsaiSzr)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/AngelIsaiSzr)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/AngelIsaiSzr)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AngelIsaiSzr)
