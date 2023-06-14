@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Facebook-black?style=flat-square&logo=Facebook" alt="Facebook">
     </a>
     <a href="https://github.com/AngelIsaiSzr">
-        <img src="https://img.shields.io/badge/github-black?style=flat-square&logo=github" alt="GitHub">
+        <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub">
     </a>
     <a href="https://github.com/AngelIsaiSzr">
         <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail" alt="Gmail">
