@@ -1,10 +1,8 @@
 <h1 align="center"><img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> ¡Hola chic@s :D! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>¡Bienvenidos a mi página!</b><br>
-    
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
-    <br><i>
+    <b>¡Bienvenidos a mi página!</b><br><br>
+    <i>
         ⚡ Mi nombre es Angel<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
         🔭 Abierto a colaborar en proyectos interesantes e innovadores en el campo del desarrollo web y movil. Mis áreas de conocimiento incluyen el desarrollo de aplicaciones móviles para Android, así como el desarrollo de aplicaciones web front-end y back-end utilizando tecnologías como React, Angular, Node.js y Django, ademas de estar aprendiendo sobre robótica y la automatización de procesos. Si tienes una idea o un proyecto en mente, no dudes en contactarme. Estoy dispuesto a trabajar en equipo y contribuir con mis habilidades y conocimientos para llevar el proyecto al siguiente nivel!<br>
@@ -84,6 +82,8 @@
 </p>
 <!--
 ![Portafolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
 - 🔭 Actualmente estoy trabajando en ...
 - 🌱 Actualmente estoy aprendiendo ...
