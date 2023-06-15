@@ -2,6 +2,7 @@
 
 <p align="center">
     <b>¡Bienvenidos a mi página!</b><br>
+    
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
     <br><i>
         ⚡ Mi nombre es Angel<br>
