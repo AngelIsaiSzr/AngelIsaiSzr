@@ -2,7 +2,7 @@
 
 <p align="center">
     <b>¡Bienvenidos a mi página!</b><br><br>
-    ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+    ![Snake animation](https://github.com/AngelIsaiSzr/angelisaiszr/blob/main/github_snake.svg)
     <i>
         ⚡ Mi nombre es Angel<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
