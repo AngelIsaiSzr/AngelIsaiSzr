@@ -67,12 +67,12 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=transparent&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
     </a>
     <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 </p>
 
