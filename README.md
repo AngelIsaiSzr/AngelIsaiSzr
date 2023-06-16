@@ -69,7 +69,7 @@
   <a href="https://github.com/AngelIsaiSzr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelIsaiSzr&theme=transparent" />
   </a>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block; text-align: center;"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -105,7 +105,7 @@
   <br>
   <div align=center>
     <a href="https://github.com/AngelIsaiSzr">
-      <img src="https://visitcount.itsvg.in/api?id=AngelIsaiSzr&label=Profile%20Views&color=blue&icon=6&pretty=true" />
+      <img src="https://visitcount.itsvg.in/api?id=AngelIsaiSzr&label=Profile%20Views&color=0&icon=6&pretty=true" />
     </a>
   </div>
 
@@ -116,6 +116,7 @@
     <img src="https://komarev.com/ghpvc/?username=AngelIsaiSzr&color=blue&style=flat)" />
   </a>
 </p>
+
 <!--
 ![Portafolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
