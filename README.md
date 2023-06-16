@@ -75,27 +75,11 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 </p>
-
-
-
-  <div align=center>
-    
-
-  </div>
-  
-  </div>
-  <br>
-  <div align=center>
-    <a href="https://github.com/AngelIsaiSzr">
-      <img src="https://visitcount.itsvg.in/api?id=AngelIsaiSzr&label=Profile%20Views&color=0&icon=6&pretty=true" />
-    </a>
-  </div>
-
 </details>
 
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
-    <img src="https://komarev.com/ghpvc/?username=AngelIsaiSzr&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=AngelIsaiSzr&color=0&style=flat)" />
   </a>
 </p>
 
