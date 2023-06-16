@@ -64,7 +64,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=transparent" />
   </a>
 <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=transparent&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
   <a href="https://github.com/AngelIsaiSzr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelIsaiSzr&theme=transparent" />
