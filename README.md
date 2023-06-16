@@ -74,28 +74,28 @@
   </a>
 </p>
 
-    <p align=center>
+
+
   <div align=center>
-    <a href="https://github.com/ivansaul" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ivansaul&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
+    <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
-    <a href="https://github.com/ivansaul" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ivansaul&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/ivansaul" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivansaul&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/ivansaul">
-      <img src="https://visitcount.itsvg.in/api?id=ivansaul&label=Profile%20Views&color=0&icon=6&pretty=true" />
+    <a href="https://github.com/AngelIsaiSzr">
+      <img src="https://visitcount.itsvg.in/api?id=AngelIsaiSzr&label=Profile%20Views&color=0&icon=6&pretty=true" />
     </a>
   </div>
-</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
