@@ -83,7 +83,6 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/AXRsCZb.png">
 </div>
 </p>
 
@@ -106,7 +105,7 @@
   <br>
   <div align=center>
     <a href="https://github.com/AngelIsaiSzr">
-      <img src="https://visitcount.itsvg.in/api?id=AngelIsaiSzr&label=Profile%20Views&color=0&icon=6&pretty=true" />
+      <img src="https://visitcount.itsvg.in/api?id=AngelIsaiSzr&label=Profile%20Views&color=blue&icon=6&pretty=true" />
     </a>
   </div>
 
