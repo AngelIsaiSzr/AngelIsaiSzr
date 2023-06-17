@@ -62,13 +62,16 @@
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=radical" />
-  </a>
+  </a> 
+    <br>
 <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=radical&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
+    <br>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>        
+    <br>
 <div align=center> 
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source"> 
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=radical&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
