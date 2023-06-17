@@ -62,8 +62,7 @@
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=radical" />
-  </a> 
-    <br>
+  </a>
 <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=radical&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
