@@ -71,7 +71,7 @@
     </a>        
 <div style="text-align: center;">
   <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-    <img style="width: 325px; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img style="display: inline-block; width: 325px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 </p>
