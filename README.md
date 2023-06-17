@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
-    <img src="https://komarev.com/ghpvc/?username=AngelIsaiSzr&color=blue&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=AngelIsaiSzr&color=blue&style=flat-square" />
   </a>
 </p>
 
