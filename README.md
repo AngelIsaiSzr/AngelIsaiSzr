@@ -61,17 +61,17 @@
 <details>
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=radical" />
   </a>
 <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=transparent&border=61dafb&hide_border=true" alt="ivansaul" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=radical&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>        
 <div align=center> 
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source"> 
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=radical&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
     </a> 
 </div>
 </p>
@@ -131,5 +131,10 @@ Imagenes de Lenguajes:
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
-    
+
+Tema:
+
+transparent
+radical
+github_dark
 -->
