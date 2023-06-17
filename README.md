@@ -70,10 +70,10 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a> 
         <a href="https://github.com/AngelIsaiSzr" title="Go to Source"> 
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=radical&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
+        <img align="left" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=radical&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
     </a> 
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source"> 
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AngelIsaiSzr&theme=radical&layout=compact&border_color=61dafb&hide_border=true&repo=AngelIsaiSzr" />
+        <img align="right" width=325 src="https://github-readme-stats.vercel.app/api/pin/?username=AngelIsaiSzr&theme=radical&layout=compact&border_color=61dafb&hide_border=true&repo=AngelIsaiSzr" />
     </a>
 </p>
 </details>
