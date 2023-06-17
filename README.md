@@ -71,7 +71,7 @@
     </a> 
 </p>
 </details>
-<br><br><br><br><br><br>
+
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
     <img src="https://komarev.com/ghpvc/?username=AngelIsaiSzr&color=blue&style=plastic" />
