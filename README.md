@@ -69,9 +69,9 @@
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
     </a>        
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-    <img style="display: inline-block; width: 325px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img style="width: 325px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 </p>
