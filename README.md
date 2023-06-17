@@ -69,7 +69,7 @@
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
     </a>        
-<div style="margin: 0 auto; text-align: center;">
+<div style="margin: auto 0; text-align: center;">
   <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
     <img style="width: 325px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelIsaiSzr&theme=transparent&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
