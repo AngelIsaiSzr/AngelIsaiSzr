@@ -4,7 +4,7 @@
     <b>¡Bienvenidos a mi página!</b><br><br>
     <i>
         ⚡ Mi nombre es Angel<br>
-        🌱 Actualmente estoy aprendiendo Basic, C++ y C<br>
+        🌱 Actualmente estoy aprendiendo C++ y C<br>
         🔭 Abierto a colaborar en proyectos interesantes e innovadores en el campo del desarrollo web y movil. Mis áreas de conocimiento incluyen el desarrollo de aplicaciones móviles para Android, así como el desarrollo de aplicaciones web front-end y back-end utilizando tecnologías como React, Angular, Node.js y Django, ademas de estar aprendiendo sobre robótica y la automatización de procesos. Si tienes una idea o un proyecto en mente, no dudes en contactarme. Estoy dispuesto a trabajar en equipo y contribuir con mis habilidades y conocimientos para llevar el proyecto al siguiente nivel!<br>
     </i><br>
     <a href="https://github.com/AngelIsaiSzr">
@@ -31,7 +31,6 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AngelIsaiSzr)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/AngelIsaiSzr)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
-[![Basic](https://img.shields.io/badge/basic-black?style=for-the-badge&logo=basic)](https://github.com/AngelIsaiSzr)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
 
 ### 📂 Proyectos
