@@ -31,8 +31,8 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AngelIsaiSzr)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/AngelIsaiSzr)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/AngelIsaiSzr)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/AngelIsaiSzr)
 
 ### 📂 Proyectos
 [![Pagina Web Mates](https://img.shields.io/badge/Web%20Mates-black?style=for-the-badge&logo=oneplus)](https://github.com/AngelIsaiSzr/Mates)
