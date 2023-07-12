@@ -1,7 +1,8 @@
 <h1 align="center">👋¡Hola chic@s :D!👋</h1>
 
 <p align="center">
-    <b>¡Bienvenidos a mi página!</b><br><br>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=950&lines=Holaa+👋,+Soy+Angel+Salazar;¡Bienvenido+a+mi+perfil!;Tengo+más+de+5+años+de+experiencia+en+programación;y+siempre+estoy+aprendiendo+cosas+nuevas!;Full+Stack+Developer+y+Mobile+Developer)](https://git.io/typing-svg)
+    <br><br>
     <i>
         ⚡ Mi nombre es Angel<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
@@ -23,8 +24,6 @@
         <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter" alt="Twitter">
     </a>
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=950&lines=Holaa+👋,+Soy+Angel+Salazar;¡Bienvenido+a+mi+perfil!;Tengo+más+de+5+años+de+experiencia+en+programación;y+siempre+estoy+aprendiendo+cosas+nuevas!;Full+Stack+Developer+y+Mobile+Developer)](https://git.io/typing-svg)
 
 ### 📋 Lenguajes
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AngelIsaiSzr)
