@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=950&lines=Holaa+👋,+Soy+Angel+Salazar;¡Bienvenido+a+mi+perfil!;Tengo+más+de+5+años+de+experiencia+en+programación;y+siempre+estoy+aprendiendo+cosas+nuevas!;Full+Stack+Developer+y+Mobile+Developer)](https://git.io/typing-svg)
 
 <p align="center">
-    <br><br>
     <i>
         ⚡ Mi nombre es Angel<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
