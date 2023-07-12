@@ -1,7 +1,7 @@
 <h1 align="center">👋¡Hola chic@s :D!👋</h1>
 
 <p align="center">
-    <b>¡Bienvenid@ a mi perfil!<b><br><br>
+    <b>¡Bienvenid@ a mi perfil!</b><br><br>
     <i>
         ⚡ Mi nombre es Angel<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
