@@ -24,6 +24,9 @@
     </a>
 </p>
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 ### 📋 Lenguajes
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AngelIsaiSzr)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/AngelIsaiSzr)
