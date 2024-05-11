@@ -5,7 +5,6 @@
     <b>¡Bienvenid@ a mi perfil!</b><br><br>
     <i>
         ⚡ Mi nombre es Angel<br>
-        ⭐ +5 años de experiencia<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
         🔭 Abierto a colaborar en proyectos interesantes e innovadores en el campo del desarrollo web y movil. Mis áreas de conocimiento incluyen el desarrollo de aplicaciones móviles para Android, así como el desarrollo de aplicaciones web front-end y back-end utilizando tecnologías como React, Angular, Node.js y Django, ademas de estar aprendiendo sobre robótica y la automatización de procesos. Si tienes una idea o un proyecto en mente, no dudes en contactarme. Estoy dispuesto a trabajar en equipo y contribuir con mis habilidades y conocimientos para llevar el proyecto al siguiente nivel!<br>
     </i><br>
