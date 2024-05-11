@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&font-size=20&lines=Holaa+✌️,+Soy+Angel+Salazar;¡Bienvenido+a+mi+perfil!;Tengo+más+de+5+años+de+experiencia+en+programación;y+siempre+estoy+aprendiendo+cosas+nuevas!;Full+Stack+Developer+y+Mobile+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&center=true&vCenter=true&random=false&width=435&lines=Holaa+%E2%9C%8C%EF%B8%8F;Soy+Angel+Salazar;%C2%A1Bienvenido+a+mi+perfil!;Tengo+m%C3%A1s+de+5+a%C3%B1os+de+experiencia;y+siempre+estoy+aprendiendo+algo+nuevo!;Full+Stack+Developer+y+Mobile+Developer)](https://git.io/typing-svg)
 <h1 align="center">👋¡Hola chic@s :D!👋</h1>
 <p align="center">
     <b>¡Bienvenid@ a mi perfil!</b><br><br>
