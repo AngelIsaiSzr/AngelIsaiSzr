@@ -1,9 +1,5 @@
 <h1 align="center">👋¡Hola chic@s :D!👋</h1>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; text-align: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2336BCF7&center=true&vCenter=true&random=false&width=500&lines=Holaa+%E2%9C%8C%EF%B8%8F;Soy+Angel+Salazar;%C2%A1Bienvenido+a+mi+perfil!;Tengo+m%C3%A1s+de+5+a%C3%B1os+de+experiencia;y+siempre+estoy+aprendiendo+algo+nuevo!;Full+Stack+Developer+y+Mobile+Developer" alt="Typing SVG" />
-    </a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%2336BCF7&center=true&vCenter=true&random=false&width=500&lines=Holaa+%E2%9C%8C%EF%B8%8F;Soy+Angel+Salazar;%C2%A1Bienvenido+a+mi+perfil!;Tengo+m%C3%A1s+de+5+a%C3%B1os+de+experiencia;y+siempre+estoy+aprendiendo+algo+nuevo!;Full+Stack+Developer+y+Mobile+Developer" alt="Typing SVG" /></a>
 <p align="center">
     <b>¡Bienvenid@ a mi perfil!</b><br><br>
     <i>
