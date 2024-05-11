@@ -40,6 +40,8 @@
 
 ### 💻 IDEs/Editores
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/AngelIsaiSzr)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio)](https://github.com/AngelIsaiSzr)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio)](https://github.com/AngelIsaiSzr)
 [![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)](https://github.com/AngelIsaiSzr)
 [![NetBeans](https://img.shields.io/badge/NetBeans-black?style=for-the-badge&logo=apache-netbeans-ide)](https://github.com/AngelIsaiSzr)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse)](https://github.com/AngelIsaiSzr)
