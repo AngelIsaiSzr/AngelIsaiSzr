@@ -1,4 +1,7 @@
-<h1 align="center">👋¡Hola chic@s :D!👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Holaa+%E2%9C%8C%EF%B8%8F;Soy+Angel+Salazar;%C2%A1Bienvenid@+a+mi+perfil!;Tengo+m%C3%A1s+de+5+a%C3%B1os+de+experiencia;y+siempre+estoy+aprendiendo+algo+nuevo!;Full+Stack+Developer+y+Mobile+Developer" alt="Typing SVG" />
+    <!-- 👋¡Hola chic@s :D!👋 -->
+</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Holaa+%E2%9C%8C%EF%B8%8F;Soy+Angel+Salazar;%C2%A1Bienvenid@+a+mi+perfil!;Tengo+m%C3%A1s+de+5+a%C3%B1os+de+experiencia;y+siempre+estoy+aprendiendo+algo+nuevo!;Full+Stack+Developer+y+Mobile+Developer" alt="Typing SVG" />
 </p>
