@@ -31,10 +31,12 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AngelIsaiSzr)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AngelIsaiSzr)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/AngelIsaiSzr)
+[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/AngelIsaiSzr)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/AngelIsaiSzr)
+[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/AngelIsaiSzr)
 
 ### 📂 Proyectos
 [![Pagina Web Mates](https://img.shields.io/badge/Web%20Mates-black?style=for-the-badge&logo=oneplus)](https://github.com/AngelIsaiSzr/Mates)
@@ -59,7 +61,6 @@
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/AngelIsaiSzr)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AngelIsaiSzr)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/AngelIsaiSzr)
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/AngelIsaiSzr)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/AngelIsaiSzr)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/AngelIsaiSzr)
 
