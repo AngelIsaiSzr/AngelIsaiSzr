@@ -31,7 +31,6 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AngelIsaiSzr)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/AngelIsaiSzr)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/AngelIsaiSzr)
-[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/AngelIsaiSzr)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/AngelIsaiSzr)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/AngelIsaiSzr)
@@ -50,6 +49,8 @@
 [![NetBeans](https://img.shields.io/badge/NetBeans-black?style=for-the-badge&logo=apache-netbeans-ide)](https://github.com/AngelIsaiSzr)
 [![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse)](https://github.com/AngelIsaiSzr)
 [![PyCharm](https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm)](https://github.com/AngelIsaiSzr)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)]
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
 ### 📚 Tecnologías & Frameworks
 [![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AngelIsaiSzr)
