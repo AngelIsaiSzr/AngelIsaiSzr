@@ -75,7 +75,6 @@
 </div>
 
 <details>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=transparent" />
