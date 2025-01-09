@@ -75,7 +75,7 @@
 </div>
 
 <details>
-<img src="https://raw.githubusercontent.com/angelisaiszr/angelisaiszr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <p align="center">
   <a href="https://github.com/AngelIsaiSzr">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelIsaiSzr&theme=transparent" />
@@ -84,7 +84,7 @@
  <p align=center>
   <div align=center>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AngelIsaiSzr&theme=transparent&border=61dafb&hide_border=true" alt="ivansaul" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.vercel.app/api?user=AngelIsaiSzr&theme=transparent&border=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
