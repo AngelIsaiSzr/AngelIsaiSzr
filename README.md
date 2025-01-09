@@ -86,6 +86,9 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.vercel.app/api?user=AngelIsaiSzr&theme=transparent&border=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
+        <img align="left" width=390 src="https://streak-stats.demolab.com?user=AngelIsaiSzr&theme=transparent&hide_border=true" />
+    </a>
+    <a href="https://github.com/AngelIsaiSzr" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AngelIsaiSzr&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
     </a>
   </div>
