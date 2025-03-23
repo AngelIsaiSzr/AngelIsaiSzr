@@ -6,7 +6,7 @@
     <i>
         ⚡ Mi nombre es Angel<br>
         🌱 Actualmente estoy aprendiendo C++ y C<br>
-        🔭 Abierto a colaborar en proyectos interesantes e innovadores en el campo del desarrollo web y moóil. Mis áreas de conocimiento incluyen el desarrollo de aplicaciones móviles para Android y iOS, así como el desarrollo de aplicaciones web front-end y back-end utilizando tecnologías como React, Angular, Node.js y Django, ademas de estar aprendiendo sobre robótica y la automatización de procesos. Si tienes una idea o un proyecto en mente, no dudes en contactarme. Estoy dispuesto a trabajar en equipo y contribuir con mis habilidades y conocimientos para llevar el proyecto al siguiente nivel!<br>
+        🔭 Abierto a colaborar en proyectos interesantes e innovadores en el campo del desarrollo web y móvil. Mis áreas de conocimiento incluyen el desarrollo de aplicaciones móviles para Android y iOS, así como el desarrollo de aplicaciones web front-end y back-end utilizando tecnologías como React, Angular, Node.js y Django, ademas de estar aprendiendo sobre robótica y la automatización de procesos. Si tienes una idea o un proyecto en mente, no dudes en contactarme. Estoy dispuesto a trabajar en equipo y contribuir con mis habilidades y conocimientos para llevar el proyecto al siguiente nivel!<br>
     </i><br>
     <a href="https://www.instagram.com/angel_szr1/">
         <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram" alt="Instagram">
