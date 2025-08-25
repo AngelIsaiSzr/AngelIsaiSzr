@@ -68,7 +68,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AngelIsaiSzr)
 [![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=Android)](https://github.com/AngelIsaiSzr)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelIsaiSzr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
 <p align="center">
