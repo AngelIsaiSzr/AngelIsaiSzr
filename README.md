@@ -52,7 +52,7 @@
 
 ### 📚 Tecnologías & Frameworks
 [![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AngelIsaiSzr)
-[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AngelIsaiSzr)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/AngelIsaiSzr)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/AngelIsaiSzr)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/AngelIsaiSzr)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/AngelIsaiSzr)
