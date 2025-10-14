@@ -42,7 +42,7 @@
 [![Mini Calculadora](https://img.shields.io/badge/Calculadora-black?style=for-the-badge&logo=ros)](https://github.com/AngelIsaiSzr/Calculadora)
 
 ### 💻 IDEs/Editores
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visualstudiocode)](https://github.com/AngelIsaiSzr)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)](https://github.com/AngelIsaiSzr)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio)](https://github.com/AngelIsaiSzr)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=android-studio)](https://github.com/AngelIsaiSzr)
 [![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)](https://github.com/AngelIsaiSzr)
