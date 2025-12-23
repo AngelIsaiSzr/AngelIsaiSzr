@@ -91,12 +91,6 @@
   </div>
   <br>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AngelIsaiSzr/AngelIsaiSzr@output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/AngelIsaiSzr/AngelIsaiSzr@output/github-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/AngelIsaiSzr/AngelIsaiSzr@output/github-snake.svg" />
-</picture>
 </details>
 
 <p align="center">
